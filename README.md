@@ -1,6 +1,6 @@
-# Exno.7 - Prompt Engineering
+# Exno.7 - Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models
 
-### Date: 23/05/2025
+### Date: 15/04/2025
 ### Register No.: 212222040015
 
 ### Aim:
